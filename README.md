@@ -1,6 +1,6 @@
 # Agendamento de Maquiagem
 
-**Aluna:** Luma Isabelle da Silva Almeida, Angélica da Silva Alves
+**Aluna:** Luma Isabelle da Silva Almeida, Angélica da Silva Alves <br>
 **Matrícula:** 20240052804. 20250067604
 
 ## Descrição
